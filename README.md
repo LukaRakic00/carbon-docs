@@ -17,7 +17,7 @@ Welcome to the **Carbon** repository! 🎉 This modern web application showcases
 - 🔍 **Product Categories**: Easy navigation through different product categories:
   - 📺 **TVs & Entertainment**: Smart TV lineup including 32", 43", 50" and 65" models
   - ❄️ **Home Appliances**: Range of refrigerators including models DE2-34, DF2-28N, FF2-55N and freezer BE1-200
-  - 🍳 **Small Kitchen Appliances**: Selection of small appliances including air fryers (2.5L, 6L) and coffee makers (EM-CA201CB, EM-CA308B)
+  - 🍳 **Small Kitchen Appliances**: Selection of small appliances including air fryers (2.5L, 6L) and coffee makers 
   - 💇‍♀️ **Beauty & Personal Care**: Beauty and care products including the 8-in-1 multifunctional hair styler
 - 📄 **Product Details**: Comprehensive product information with high-quality images and specifications
 - ⬇️ **PDF Downloads**: Easy access to product manuals and specification documents
@@ -40,12 +40,12 @@ Welcome to the **Carbon** repository! 🎉 This modern web application showcases
 ## **Project Demo**
 
 ### 📸 **Application Screenshot**
-![Carbon Application Screenshot](/public/picOfApp.jpg)
+![Carbon Application Screenshot](picOfApp.jpg)
 
 ### 🎥 **Video Demonstration**
 Check out our video demonstration to see the Carbon application in action:
 
-[![Carbon App Demo](/public/s1.png)](https://vimeo.com/1093362481/72d343bc8c?share=copy)
+[![Carbon App Demo](s1.png)](https://vimeo.com/1093362481/72d343bc8c?share=copy)
 
 *Click the image above to watch the video demonstration*
 
