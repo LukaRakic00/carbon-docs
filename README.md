@@ -2,7 +2,6 @@
 
 Welcome to the documentation for the Carbon project. 🌐 Visit our website at [carbon.co.rs](https://carbon.co.rs/) to learn more about our innovative solutions and services.
 
-Dobrodošli u dokumentaciju za Carbon projekat.
 
 # **🛍️ Carbon - Premium Home Appliances**
 
