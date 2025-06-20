@@ -45,7 +45,7 @@ Welcome to the **Carbon** repository! 🎉 This modern web application showcases
 ### 🎥 **Video Demonstration**
 Check out our video demonstration to see the Carbon application in action:
 
-[![Carbon App Demo](s1.png)](https://vimeo.com/1093362481/72d343bc8c?share=copy)
+[![Carbon App Demo](videoThumbnail.png)](https://vimeo.com/1093362481/72d343bc8c?share=copy)
 
 *Click the image above to watch the video demonstration*
 
