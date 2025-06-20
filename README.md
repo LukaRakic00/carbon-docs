@@ -54,31 +54,6 @@ Check out our video demonstration to see the Carbon application in action:
 - 📝 Make sure to update tests as appropriate.
 - 🐛 For major changes, please open an issue first to discuss what you would like to change.
 
-## **🔒 Access & Installation**
-
-This is a documentation-only repository. The actual project code is maintained in a private repository for security reasons. To get access and run the project:
-
-1. **Request Access**
-   - Contact our team at [your-email@example.com]
-   - Provide your GitHub username and reason for access
-   - We'll review your request and grant access to the private repository
-
-2. **Once Access is Granted**
-   ```bash
-   # Clone the private repository
-   git clone https://github.com/yourusername/carbon-project-private.git
-   
-   # Install dependencies
-   cd carbon-project-private
-   npm install
-   
-   # Set up environment variables
-   cp .env.example .env
-   # Configure your environment variables
-   
-   # Run the development server
-   npm run dev
-   ```
 
 3. **Required Environment Variables**
    - `MONGODB_URI`: Your MongoDB connection string
