@@ -1,25 +1,94 @@
-# Carbon Documentation
+# **🛍️ Carbon - Premium Home Appliances**
 
-Dobrodošli u dokumentaciju za Carbon projekat.
+Welcome to the **Carbon** repository! 🎉 This modern web application showcases Carbon's premium line of home appliances, offering detailed product information, specifications, and warranty registration.
 
-## O projektu
+## **📌 Table of Contents**
+- 📖 **[Overview](#overview)**
+- 🚀 **[Features](#features)**
+- 🧑‍💻 **[Technologies](#technologies)**
+- 📸 **[Project Demo](#project-demo)**
+- 🤝 **[Contributing](#contributing)**
 
-Carbon je privatni repozitorijum koji sadrži glavni kod aplikacije. Ovaj repozitorijum (`carbon-docs`) služi za dokumentaciju i upravljanje dokumentima vezanim za Carbon projekat.
+## **Overview**
+**Carbon** is a modern web application built to showcase and provide detailed information about Carbon's premium home appliances. The platform offers an intuitive interface for exploring product features, downloading specifications, and registering product warranties.
 
-## Struktura
+## **Features**
+- 📱 **Responsive Design**: Fully responsive interface that works seamlessly across all devices
+- 🔍 **Product Categories**: Easy navigation through different product categories:
+  - 📺 **TVs & Entertainment**: Smart TV lineup including 32", 43", 50" and 65" models
+  - ❄️ **Home Appliances**: Range of refrigerators including models DE2-34, DF2-28N, FF2-55N and freezer BE1-200
+  - 🍳 **Small Kitchen Appliances**: Selection of small appliances including air fryers (2.5L, 6L) and coffee makers (EM-CA201CB, EM-CA308B)
+  - 💇‍♀️ **Beauty & Personal Care**: Beauty and care products including the 8-in-1 multifunctional hair styler
+- 📄 **Product Details**: Comprehensive product information with high-quality images and specifications
+- ⬇️ **PDF Downloads**: Easy access to product manuals and specification documents
+- 📝 **Warranty Registration**: Simple and user-friendly warranty registration system
+- 🔍 **Product Search**: Quick and efficient product search functionality
 
-- `docs/` - Glavna dokumentacija
-- `guides/` - Uputstva za korišćenje
-- `api/` - API dokumentacija
+## **Technologies**
+- ⚛️ **React + Vite**: Fast and modern frontend development setup
+- 🎨 **Bootstrap**: Frontend framework for responsive design
+- 📦 **MongoDB Atlas**: Cloud database hosting
+- 🗄️ **MongoDB Compass**: Local development database tool
+- 🖥️ **Node.js**: Backend runtime environment
+- 🌐 **Express**: Web application framework for Node.js
+- ☁️ **Render**: Backend API hosting
+- 🖼️ **Cloudinary**: Cloud-based image management
+- 🚀 **Vercel**: Frontend deployment platform
+- 🌐 **cPanel**: Web hosting control panel
+- 🔗 **Domain Management**: Custom domain configuration and management
 
-## Kako doprineti
+## **Project Demo**
 
-1. Fork ovog repozitorijuma
-2. Napravi feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit promene (`git commit -m 'Add some amazing feature'`)
-4. Push na branch (`git push origin feature/amazing-feature`)
-5. Otvori Pull Request
+### 📸 **Application Screenshot**
+![Carbon Application Screenshot](/public/picOfApp.jpg)
 
-## Kontakt
+### 🎥 **Video Demonstration**
+Check out our video demonstration to see the Carbon application in action:
 
-Za pitanja vezana za dokumentaciju, otvori issue u ovom repozitorijumu. 
+[![Carbon App Demo](/public/s1.png)](https://vimeo.com/1093362481/72d343bc8c?share=copy)
+
+*Click the image above to watch the video demonstration*
+
+## **Contributing**
+- 🤝 Contributions are welcome! Please feel free to submit a pull request.
+- 📝 Make sure to update tests as appropriate.
+- 🐛 For major changes, please open an issue first to discuss what you would like to change.
+
+## **🔒 Access & Installation**
+
+This is a documentation-only repository. The actual project code is maintained in a private repository for security reasons. To get access and run the project:
+
+1. **Request Access**
+   - Contact our team at [your-email@example.com]
+   - Provide your GitHub username and reason for access
+   - We'll review your request and grant access to the private repository
+
+2. **Once Access is Granted**
+   ```bash
+   # Clone the private repository
+   git clone https://github.com/yourusername/carbon-project-private.git
+   
+   # Install dependencies
+   cd carbon-project-private
+   npm install
+   
+   # Set up environment variables
+   cp .env.example .env
+   # Configure your environment variables
+   
+   # Run the development server
+   npm run dev
+   ```
+
+3. **Required Environment Variables**
+   - `MONGODB_URI`: Your MongoDB connection string
+   - `CLOUDINARY_CLOUD_NAME`: Cloudinary cloud name
+   - `CLOUDINARY_API_KEY`: Cloudinary API key
+   - `CLOUDINARY_API_SECRET`: Cloudinary API secret
+   - Additional variables as specified in `.env.example`
+
+## **License**
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+Made with ❤️ by Carbon Team
